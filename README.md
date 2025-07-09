@@ -1,7 +1,7 @@
 # 🎬 IMDB TV Shows EDA Analysis
 
 Explore the trends, insights, and patterns behind the top-rated TV shows on IMDb. This project dives into a detailed exploratory data analysis (EDA) of IMDb TV show data, revealing what makes a series stand out in terms of ratings, popularity, and critical acclaim.
-
+[Interactive Plot](https://github.com/sahil007707/IMDB-TV-Shows-EDA-Analysis/blob/main/Interactive%20Review%20Sentiment%20by%20Rating.png)
 
 ---
 
